@@ -62,3 +62,101 @@ BI Tools: Qlik, Power BI
 Experienced analytics professional with a demonstrated history of working across multiple sectors, and a passion for deriving value from data.
 Skilled in building and deploying data products, data modelling, simulation, building ML models, exploratory analysis, and data visualisation.
 
+
+# New
+
+Devops
+Engineer – Backend, Senior (Optional Remote)
+Preferable Location(s): Sydney, Australia
+Work Type: Full Time
+The DevOps Team at Enosi is responsible for the development of Enosi’s Powertracer Platform. At Enosi, the developers also own the operational support of the platform.
+
+
+
+We have rewritten Powertracer to scale to over a hundred thousand households, businesses and generation sources, trading their energy and delivering traceability of supply to customers. At this scale we will be responsible for delivering the trading and tracing between supply and demand of electrical energy in the gigawatt hours a year range.
+
+
+
+We are looking to grow out the DevOps team and and you’ll have an opportunity to work across a codebase encompassing Go, Ruby, Javascript and Python with Terraform to build infrastructure, and a mixture of containers and serverless applications. In this role, you'll be expected to take ownership of technical projects that are critical to the success of the Powertracer.
+
+
+
+If you are ready to challenge an industry that has long lagged behind the innovation curve, and be part of driving emissions to true zero, we want to hear from you.
+
+
+
+Examples of problems you'll be solving
+
+
+Simplifying the complexity in electricity purchasing
+
+Optimising data pipelines and storage
+
+Designing and implementing large, distributed calculation engines
+
+Shaping our APIs, both internal and external, made up of a combination of RESTful and GraphQL endpoints
+
+Implementing highly available time-series historian services, supporting both batch processing and near-real-time data streams
+
+Implementing trading registries with immutable storage
+
+Integrating blockchain/distributed ledger technologies to deliver increased trust in trading outcomes
+
+Orchestrating monitoring to ensure operational support (hint: it’s in our name – we own the ops space too)
+
+Contributing to the development process through code reviews, stand-ups, planning and retrospectives
+
+Developing your solution incrementally, seeking reviews, and deploying often
+
+Making use of automated processes (where appropriate), including the use of CI/CD ( 👋 Buildkite).
+
+Working with a wide range of technologies, including AWS, Docker, Terraform and more!
+
+
+
+You are great because …
+
+
+
+You have more than 5+ years software engineering experience
+
+You have professional experience delivering engineering solutions Go
+
+You are experienced in identifying best practices with AWS cloud technologies, including serverless and containerised services
+
+You are happy to mentor those around you, helping raise everyone’s skills up
+
+You know your way around both relational and NoSQL databases
+
+You understand that the code and documentation you write is not only to meet the current requirements, but also to make it understandable for the next person who works on it
+
+You have a strong sense of product and empathy for the human who is using it
+
+You care about fostering a positive and collaborative environment
+
+You are able to work independently on a project while effectively explaining your decisions and documenting them
+
+You are always learning and excited to grow
+
+
+
+Bonus points
+
+
+
+If you are comfortable working with Node (for example, React)
+
+If you've been part of a team that works on large-scale distributed systems
+
+If you’ve been working on infrastructure using Terraform
+
+If you have exposure and understanding of distributed ledger technologies and cryptographic methods
+
+
+
+You can show us your technical experience
+
+
+
+We will want to understand more about your skills, including your engineering track record, experience across the software development lifecycle, agile methods, devops, incorporation of testing. Having some example work that could be reviewed would be appreciated. 
+
