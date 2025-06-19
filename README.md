@@ -48,6 +48,8 @@ What We Offer
 
 Current engineers:
 
+### 1
+
 A Mathematician turned Data Engineer; I have years of experience in many different BI projects for a wide variety of different industries, including the energy, asset management, financial services, and health sectors. 
 
 My skills range from early data modelling (ERD and data mapping), transformations and cleaning for data analytics to diving into deep learning machine learning models. My experience has also equipped me with extensive stakeholder management skills.
@@ -55,4 +57,8 @@ My skills range from early data modelling (ERD and data mapping), transformation
 Specialisations: Data transformations, Data modelling (ERD and Data Mapping), SQL, dbt, Databricks, Excel, Python, Azure ML, Dataiku DSS, Jupyter notebooks
 
 BI Tools: Qlik, Power BI
+
+### 2
+Experienced analytics professional with a demonstrated history of working across multiple sectors, and a passion for deriving value from data.
+Skilled in building and deploying data products, data modelling, simulation, building ML models, exploratory analysis, and data visualisation.
 
